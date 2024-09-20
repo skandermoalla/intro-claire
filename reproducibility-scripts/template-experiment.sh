@@ -1,1 +1,1 @@
-exec python -m template_package_name.template_experiment
+exec python -m claire_intro.template_experiment

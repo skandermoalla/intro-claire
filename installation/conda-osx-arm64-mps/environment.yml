@@ -1,4 +1,4 @@
-name: template-project-name
+name: claire-intro
 channels:
   - conda-forge
 dependencies:

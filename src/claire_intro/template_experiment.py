@@ -8,7 +8,7 @@ import hydra
 import wandb
 from omegaconf import DictConfig, OmegaConf
 
-from template_package_name import utils
+from claire_intro import utils
 
 # Hydra sets up the logger automatically.
 # https://hydra.cc/docs/tutorials/basic/running_your_app/logging/
